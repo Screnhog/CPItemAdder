@@ -12,3 +12,5 @@ Running
 ===========
 * Make sure you have Java installed.
 * Run `java -jar CPItemAdder.jar`
+* Make a text file with a list of item IDs (one per line) to use.
+* Follow the GUI prompts.
