@@ -10,5 +10,5 @@ Get a compiled JAR from [here](https://github.com/widd/CPItemAdder/releases/down
 
 Running
 ===========
-Make sure you have Java installed.
-Run `java -jar CPItemAdder.jar`
+* Make sure you have Java installed.
+* Run `java -jar CPItemAdder.jar`
