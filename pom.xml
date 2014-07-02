@@ -4,7 +4,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>cc.mattg</groupId>
+    <groupId>cc.chell</groupId>
     <artifactId>cpitemadder</artifactId>
     <version>1.0-SNAPSHOT</version>
 
@@ -45,7 +45,7 @@
                         <manifest>
                             <addClasspath>true</addClasspath>
                             <classpathPrefix>lib/</classpathPrefix>
-                            <mainClass>cc.mattg.cpitemadder.ItemAdder</mainClass>
+                            <mainClass>cc.chell.cpitemadder.ItemAdder</mainClass>
                         </manifest>
                     </archive>
                 </configuration>

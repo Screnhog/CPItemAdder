@@ -1,7 +1,7 @@
-package cc.mattg.cpitemadder.gui;
+package cc.chell.cpitemadder.gui;
 
-import cc.mattg.cpitemadder.ItemAdderController;
-import cc.mattg.cpitemadder.gui.PanelMain;
+import cc.chell.cpitemadder.ItemAdderController;
+
 import java.awt.Component;
 import javax.swing.AbstractButton;
 import javax.swing.JFrame;

@@ -1,6 +1,6 @@
-package cc.mattg.cpitemadder;
+package cc.chell.cpitemadder;
 
-import cc.mattg.cpitemadder.gui.ItemAdderView;
+import cc.chell.cpitemadder.gui.ItemAdderView;
 
 import javax.swing.*;
 import java.awt.*;
@@ -29,7 +29,7 @@ public class ItemAdder {
             view.setDefaultCloseOperation(3);
             view.setSize(500, 325);
             view.setResizable(false);
-            view.setTitle("Matt's Item Adder - Not Running");
+            view.setTitle("Chell Item Adder - Not Running");
             view.setVisible(true);
             view.setLocationRelativeTo((Component)null);
          }

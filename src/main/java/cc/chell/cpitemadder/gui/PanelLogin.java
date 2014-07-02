@@ -1,4 +1,4 @@
-package cc.mattg.cpitemadder.gui;
+package cc.chell.cpitemadder.gui;
 
 import java.awt.LayoutManager;
 import javax.swing.JButton;

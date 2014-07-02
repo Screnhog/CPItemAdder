@@ -1,10 +1,7 @@
-package cc.mattg.cpitemadder.gui;
+package cc.chell.cpitemadder.gui;
 
-import java.awt.Font;
-import java.awt.LayoutManager;
-import javax.swing.JPanel;
-import javax.swing.JScrollPane;
-import javax.swing.JTextArea;
+import javax.swing.*;
+import java.awt.*;
 
 public class PanelLogs extends JPanel {
 

@@ -1,4 +1,4 @@
-package cc.mattg.cpitemadder;
+package cc.chell.cpitemadder;
 
 import com.mashape.unirest.http.HttpResponse;
 import com.mashape.unirest.http.JsonNode;

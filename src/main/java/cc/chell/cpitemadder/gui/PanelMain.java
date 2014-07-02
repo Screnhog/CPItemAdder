@@ -1,16 +1,7 @@
-package cc.mattg.cpitemadder.gui;
+package cc.chell.cpitemadder.gui;
 
-import cc.mattg.cpitemadder.gui.PanelLogin;
-import cc.mattg.cpitemadder.gui.PanelLogs;
-import java.awt.Color;
-import java.awt.Font;
-import java.awt.LayoutManager;
-import javax.swing.Icon;
-import javax.swing.JLabel;
-import javax.swing.JPanel;
-import javax.swing.JProgressBar;
-import javax.swing.JSeparator;
-import javax.swing.JTabbedPane;
+import javax.swing.*;
+import java.awt.*;
 
 public class PanelMain extends JPanel {
 

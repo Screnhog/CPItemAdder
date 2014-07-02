@@ -1,9 +1,9 @@
-package cc.mattg.cpitemadder;
+package cc.chell.cpitemadder;
 
-import cc.mattg.cpitemadder.gui.ItemAdderView;
-import cc.mattg.cpitemadder.gui.PanelLogin;
-import cc.mattg.cpitemadder.gui.PanelLogs;
-import cc.mattg.cpitemadder.gui.PanelMain;
+import cc.chell.cpitemadder.gui.ItemAdderView;
+import cc.chell.cpitemadder.gui.PanelLogin;
+import cc.chell.cpitemadder.gui.PanelLogs;
+import cc.chell.cpitemadder.gui.PanelMain;
 
 import javax.swing.*;
 import javax.swing.filechooser.FileNameExtensionFilter;
