@@ -5,7 +5,7 @@ Abuses Club Penguin's Mobile API to add any item to any account.
 
 Originally written by anatomicalbomb (Matt).
 
-Get a compiled JAR by clicking on Releases.
+Get a compiled JAR from [here](https://github.com/widd/CPItemAdder/releases/download/v1.0/CPItemAdder.jar).
 
 
 Running
